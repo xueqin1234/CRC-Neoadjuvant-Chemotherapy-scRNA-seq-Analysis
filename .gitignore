@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# 大数据文件（如需上传可删除以下两行）
+*.rds
+*.h5ad
